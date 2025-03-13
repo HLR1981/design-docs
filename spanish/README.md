@@ -27,16 +27,10 @@ Ultima actualización: 2025-03-12
 - [Otro link](#)
 
 ## Objetivo
-_Que y porque estamos haciendo esto?_
-
-_Incluye contexto para las personas que no están familiarizadas con el proyecto._
-
-_Mantenlo corto, elabora en **Background, Overview y Detailed Design**_
-
-_Añade screenshots / mocks si lo ves necesario_
+Que se tengan mejores resultados en ci¿uanto a la comunicacion laboral
 
 ## Goals
-- Goals
+Mas eficiencias con respecto a las tareas diarias
 ## Non-Goals
 - Non-Goals
 
