@@ -1,11 +1,11 @@
-# TITULO DEL DESIGN DOC
-Link: [Link a este design doc](#)
+# Bot Trabajo
+Link: [https://github.com/HLR1981/design-docs/edit/main/spanish/README.md](#)
 
-Author(s): Charlie L
+Author(s): Hilario Jimenez Victoriano
 
-Status: [Draft, Ready for review, In Review, Reviewed]
+Status: [Draft, Ready for review, In Review, Reviewe]
 
-Ultima actualización: YYYY-MM-DD
+Ultima actualización: 2025-03-12
 
 ## Contenido
 - Goals
