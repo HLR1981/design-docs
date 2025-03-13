@@ -32,17 +32,17 @@ Que se tengan mejores resultados en ci¿uanto a la comunicacion laboral
 ## Goals
 Mas eficiencias con respecto a las tareas diarias
 ## Non-Goals
-- Non-Goals
+Dar seguimientos a las tareas menos prioridad
 
 ## Background
-_Cuál es el contexto de este proyecto?_
+_Por definir sera una portada laboral_
 
-_Incluye recursos, como otros design docs si es necesario_
+_Incluye recursos, como otros design docs si es necesar_
 
 _No escribas acerca de tu diseño o requerimientos aquí_
 
 ## Overview
-_Overview a alto nivel de tu propuesta_
+_Se tendra que _
 
 _Esta sección debería ser entendible por nuevos miembros de tu equipo que no están relacionados al proyecto_
 
